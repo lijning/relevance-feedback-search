@@ -27,7 +27,7 @@ class SearchPage extends React.Component {
         }
       ],
       attempts: 0,
-      key: "*IzaSyCuBu6cTmO0GQa*vxSY991zB_nntU1aCB0",
+      key: "****aS*******a**vxSY991zB",
       cx: "001155980652667309729:bgrnl8tabzj"
     };
   }
